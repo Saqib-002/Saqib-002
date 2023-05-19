@@ -2,7 +2,7 @@
 
 ### ✨ About Me
 ---
-*Fuelled by an unwavering passion for Artificial Intelligence with focus on python for data science and Machine Learning*
+*Fuelled by an unwavering passion for Artificial Intelligence with focus on python for data science and Machine Learning.*
 *Experise in web developement, Specifically in React for Client Side and NodeJS for Server Side. Building a solid foundation in NextJS*
 
 ---
