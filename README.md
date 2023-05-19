@@ -1,12 +1,8 @@
 # HELLO  FELLOWS!👋 My name is Saqib Ali Shah
 
 ### ✨ About Me
-    Fuelled by an unwavering passion for Artificial Intelligence
-	with focus on python for data science and Machine Learning
-	 
-	 Experise in web developement, Specifically in React for 
-	 Client Side and NodeJS for Server Side. Building a solid
-	 foundation in NextJS
+	Fuelled by an unwavering passion for Artificial Intelligence with focus on python for data science and Machine Learning
+	Experise in web developement, Specifically in React for Client Side and NodeJS for Server Side. Building a solid foundation in NextJS
 - 🎒 I am student of Kicsit subcampus of *Institute of Space & Technology, Islamabad*
 - 💼Currently wondering in the city of React Redux
 - 👊Commited to craft some attractive and functional web applications and give it some sprinkle some magic of machine learning.
